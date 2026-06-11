@@ -1,11 +1,5 @@
 [
   {
-    "id": 1781178960986,
-    "title": "apple.com",
-    "url": "https://apple.com",
-    "screenshot": "https://api.microlink.io?url=https%3A%2F%2Fapple.com&screenshot=true&embed=screenshot.url"
-  },
-  {
     "id": 1781178912437,
     "title": "app.emergent.sh",
     "url": "https://app.emergent.sh/chat",
